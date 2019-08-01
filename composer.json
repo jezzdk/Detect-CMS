@@ -1,5 +1,5 @@
 {
-    "name": "jezzdk/Detect-CMS",
+    "name": "jezzdk/detect-cms",
     "description": "PHP Library for detecting CMS",
     "require": {
         "php": "^7.3"
